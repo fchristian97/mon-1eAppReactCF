@@ -3,9 +3,9 @@ export const Navbar = () => {
     <div>
 
    <header className="navbar">
-     <h1>Welcome to my React App</h1>
+     <h1>Bienvenue dans mon App avecReact</h1>
    </header>
-   <carte>ma carte </carte>
+   <carte>creation de ma première carte </carte>
   <footer> my footer </footer>
     </div>
   );
